@@ -36,4 +36,3 @@ I’m building GhostLayer Defense around practical cybersecurity engineering and
 
 **Interested in a project or collaboration?** Reach me at [info@ghostlayerdefense.com](mailto:info@ghostlayerdefense.com).
 
-<sub>Project code and documentation are developed with AI assistance. Each repository records its scope, validation, and limitations.</sub>
