@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="Mohammad Salah — Cybersecurity Engineering — GhostLayer Defense">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#07111f"/><stop offset="1" stop-color="#102a43"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#1f4965" stroke-width=".6"/></pattern></defs>
+<rect width="1280" height="320" rx="20" fill="url(#bg)"/><rect width="1280" height="320" rx="20" fill="url(#grid)" opacity=".45"/>
+<path d="M80 65h48l26 26v61c0 38-43 62-50 66-7-4-50-28-50-66V91z" fill="#0e263b" stroke="#42cfff" stroke-width="3"/>
+<path d="M82 140l17 17 31-38" fill="none" stroke="#42cfff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="195" y="108" font-family="Arial,sans-serif" font-size="16" letter-spacing="5" fill="#42cfff">GHOSTLAYER DEFENSE</text>
+<text x="192" y="170" font-family="Arial,sans-serif" font-size="52" font-weight="700" fill="#f2f7fc">MOHAMMAD SALAH</text>
+<text x="195" y="211" font-family="Arial,sans-serif" font-size="22" fill="#b6c9dc">Cybersecurity Engineering · Founder &amp; CEO</text>
+<path d="M195 245h350" stroke="#42cfff" stroke-width="2"/><text x="195" y="277" font-family="Arial,sans-serif" font-size="14" letter-spacing="2" fill="#8fa8bf">BUILD · INVESTIGATE · DEFEND</text>
+<circle cx="1120" cy="160" r="84" fill="none" stroke="#2f6987" stroke-width="1"/><circle cx="1120" cy="160" r="60" fill="none" stroke="#42cfff" stroke-width="2" opacity=".6"/><path d="M1020 160h200m-100-100v200" stroke="#2f6987"/><circle cx="1120" cy="160" r="10" fill="#42cfff"/>
+</svg>
