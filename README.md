@@ -15,6 +15,7 @@ My current focus is authentication-event analysis, file integrity, web security 
 
 | Project | Purpose | Evidence |
 | --- | --- | --- |
+| [**GhostLayer Lens**](https://github.com/Moesalah12/ghostlayer-lens) | Inspect ZIPs and scripts locally before opening them | Evidence excerpts, explicit coverage gaps, local visual app, and regression tests |
 | [**GhostLayer AuthWatch**](https://github.com/Moesalah12/ghostlayer-authwatch) | Triage normalized authentication events using sliding windows | Synthetic dataset, JSON alerts, threshold and correlation tests |
 | [**GhostLayer Integrity**](https://github.com/Moesalah12/ghostlayer-integrity) | Compare directory contents against SHA-256 baselines | Added/removed/modified reports and filesystem tests |
 | [**GhostLayer HeaderCheck**](https://github.com/Moesalah12/ghostlayer-headercheck) | Review saved HTTP headers or one authorized response | Weak/hardened fixtures, offline reports, redirect boundary test |
